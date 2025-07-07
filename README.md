@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estudiante de Ingenieria en Sistemas Computacionales<br>🌱 Aprendiendo
+🔭 Estudiante de 6to cuatrimestre de Ingenieria en Sistemas Computacionales<br>🌱 Manejo de backend y conocimientos de tecnologías de frontend
 
 
 # 💻 Tech Stack:
